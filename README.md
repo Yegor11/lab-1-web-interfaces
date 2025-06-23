@@ -13,7 +13,7 @@
 React + Vite
 Django REST Framework
 
-### збірка
+### Збірка
 
 ```bash
 python -m venv venv
